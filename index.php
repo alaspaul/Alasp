@@ -1,18 +1,21 @@
+<!DOCTYPEhtml>
 <html>
-<head>
+
 <body bgcolor="powderblue">
+<head>
 <title>Resume</title>
 </head>
 <article>
 <header>
-<body><center><h1> Paul Irvin E. Alas</h1><br>BSIT-1<br></center>
+<center><h1> Paul Irvin E. Alas</h1><br>BSIT-1<br></center>
 </header>
 </article>
-<center><img src="pics.jpg" alt="picture of paul" Width="400" height="250"/></center>
-<u><h2><center>Welcome to my profile</u></center>
-<strong><center>Hello world</center></strong>
-<h6><center><i>know me</i></h6></center>
+<center><img src="pics.jpg" alt="picture of paul" Width="400" height="250"/>
+<h2><u>Welcome to my profile</u></h2>
+<strong>Hello world</strong>
+<h6><i>know me</i></h6></center>
 <br>
+<body>
 <main>
 <article>
 <h3><em>Educational Background</em></h3>
@@ -64,3 +67,4 @@
 
 </body>
 </html>
+

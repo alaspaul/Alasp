@@ -48,9 +48,5 @@
 	
 </footer>
 
-		</main>
-   	
-	</ul></nav>
-
 </body>
 </html>

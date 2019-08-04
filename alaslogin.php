@@ -7,13 +7,15 @@
 </head>
 <header><center><h1>Login</h1></center></header>
 <body>
-	<h4>Navigation</h4>
+		 <h4>Navigation</h4>
 	    <nav>
 		
-			<a href="#">HOME</a> |
+			| <a href="Homepage.html">HOME</a> |
 		
 		
-			<a href="#">HELP</a>
+			<a href="Helppage.html">HELP</a> |
+		</nav>
+		
 	
 <main>
 			<br><center>

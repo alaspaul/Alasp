@@ -7,47 +7,46 @@
 </head>
 <header><center><h1>Login</h1></center></header>
 <body>
-		 <h4>Navigation</h4>
-	    <nav>
+<h4>Navigation</h4>
+<nav>
 		
 			| <a href="Homepage.html">HOME</a> |
 		
 		
 			<a href="Helppage.html">HELP</a> |
-		</nav>
+</nav>
 		
 	
 <main>
-			<br><center>
-			<form action="/action_page.php" method="get">
+    <br>
+<center>
+<form action="/action_page.php" method="get">
   Username: <input type="text" name="usr_name"><br>
   Password: <input type="text" name="password"><br>
   <keygen name="security">
   <input type="Submit">
-            </form>
-            </center>
+</form>
+</center>
 </main>
-      <br>
-      <br>
-      <br>
-      <br>
+     <br>
+     <br>
+     <br>
+     <br>
      
 <section>
-	<center>
+<center>
 	Login page for you to login to the page <br>
 	where you can play and make your <br>
 	own games
-	</center>
+</center>
 </section>
 <br>
 <br>
 <footer>
-	<center>
+<center>
 	All rights reserved<br>
 	made by Paul Alas
 </center>
-	
-	
 </footer>
 
 </body>

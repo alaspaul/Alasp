@@ -16,7 +16,7 @@
 	    <nav>
 		
 			 <a href="html.html">Back to Home</a><nbsb>
-		     <a href="2nd photo.html">Next Photo</a>
+		     <a href="2nd photo.php">Next Photo</a>
 		</nav>
 
 	</center>

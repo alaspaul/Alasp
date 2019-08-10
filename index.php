@@ -13,9 +13,9 @@
 <h4>Navigation</h4>
 	    <nav>
 		<ul>
-			<li> <a href="1st photo.html">1st Photo</a></li> 
-		    <li> <a href="2nd photo.html">2nd Photo</a></li> 
-			<li> <a href="3rd photo.html">3rd Photo</a></li> 
+			<li> <a href="1st photo.php">1st Photo</a></li> 
+		    <li> <a href="2nd photo.php">2nd Photo</a></li> 
+			<li> <a href="3rd photo.php">3rd Photo</a></li> 
 		</ul>
 		</nav>
 

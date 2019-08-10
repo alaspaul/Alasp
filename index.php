@@ -12,11 +12,10 @@
 	
 <h4>Navigation</h4>
 	    <nav>
-		<ul>
-			<li> <a href="1st photo.php">1st Photo</a></li> 
-		    <li> <a href="2nd photo.php">2nd Photo</a></li> 
-			<li> <a href="3rd Photo.php">3rd Photo</a></li> 
-		</ul>
+		
+			<a href="1st photo.php">1st Photo</a><br>
+		    <a href="2nd photo.php">2nd Photo</a><br>
+			 <a href="3rd Photo.php">3rd Photo</a><br>
 		</nav>
 
 	</center>

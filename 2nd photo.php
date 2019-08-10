@@ -15,7 +15,7 @@
 	    <nav>
 		
 			 <a href="index.php">Back to Home</a><nbsb>
-		     <a href="3rd photo.php">Next Photo</a>
+		     <a href="3rd Photo.php">Next Photo</a>
 		</nav>
 
 	</center>

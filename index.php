@@ -15,7 +15,7 @@
 		<ul>
 			<li> <a href="1st photo.php">1st Photo</a></li> 
 		    <li> <a href="2nd photo.php">2nd Photo</a></li> 
-			<li> <a href="3rd photo.php">3rd Photo</a></li> 
+			<li> <a href="3rd Photo.php">3rd Photo</a></li> 
 		</ul>
 		</nav>
 

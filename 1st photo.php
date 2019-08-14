@@ -20,6 +20,11 @@
 		</nav>
 
 	</center>
+	<br>
+	<br><br><br>
+	<center>
+		<a href="index.php">log out</a>	
+	</center>
 
 </body>
 </html>

@@ -16,7 +16,7 @@
 							<br>
 								<br>
 <center>
-	<a href="homepage.html">Proceed to Photo Gallery</a>
+	<a href="homepage.php">Proceed to Photo Gallery</a>
 </center>
 </body>
 </html>

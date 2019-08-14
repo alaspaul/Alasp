@@ -1,24 +1,93 @@
 <!DOCTYPE html>
-
 <html>
+
+
 <body bgcolor="powderblue">
+
 <head>
-	<title>Alasp gallery</title>
+
+	<title>Alasp login</title>
+
 </head>
-<header><center><h1>Alasp Photo Gallery</h1></center></header>
+
+<header><center><h1>Login</h1></center></header>
+
 <body>
-		<center><h1>List of Photos</h1>
-		
+
+
 	
-<h4>Navigation</h4>
-	    <nav>
-		
-			<a href="1st photo.php">1st Photo</a><br>
-		    <a href="2nd photo.php">2nd Photo</a><br>
-			 <a href="3rd Photo.php">3rd Photo</a><br>
-		</nav>
+
+<main>
+
+			<br><center>
+
+			<form action="homepage.php" method="get">
+
+  Username: <input type="text" name="usr_name"><br>
+
+  Password: <input type="text" name="password"><br>
+
+  <keygen name="security">
+
+  <input type="Submit">
+
+            </form>
+
+            </center>
+
+</main>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+     
+
+<section>
+
+	<center>
+
+	Login page for you to login to the page <br>
+
+	where you can play and make your <br>
+
+	own games
 
 	</center>
 
+</section>
+<section>
+	<center>
+		<a href="forgot.php">forgot your password?</a><br>
+		<a href="signup.php">sign up</a>
+	</center>
+</section>
+
+<br>
+
+<br>
+
+<footer>
+
+	<center>
+
+	All rights reserved<br>
+
+	made by Paul Alas
+
+</center>
+
+	
+
+	
+
+</footer>
+
+
+
 </body>
-</html>
+

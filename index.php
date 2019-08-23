@@ -63,7 +63,7 @@
 <section>
 	<center>
 		<a href="forgot.php">forgot your password?</a><br>
-		<a href="signup.php">sign up</a>
+		<a href="register.php">sign up</a>
 	</center>
 </section>
 

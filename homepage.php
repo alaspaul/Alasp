@@ -20,7 +20,7 @@
 	<br>
 	<br><br><br>
 	<center>
-		<a href="index.html">log out</a>	
+		<a href="index.php">log out</a>	
 	</center>
 </body>
 </html>
